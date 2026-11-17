@@ -4,12 +4,12 @@ const TELEGRAM_USERNAME = "YOUR_TELEGRAM_USERNAME";
 const DISCORD_INVITE = "YOUR_DISCORD_INVITE";
 
 /* لایسنس آزمایشی مدیریت */
-const ADMIN_LICENSE = "IRFRUIT-ADMIN-2026";
+const ADMIN_LICENSE = "IRFruits-Admins-Key";
 
 const $ = id => document.getElementById(id);
 
 const fruits = [
- ["Rocket","Natural","Common","🚀"],
+ ["Rocket","25000","تومان","🚀"],
  ["Spin","Natural","Common","🌀"],
  ["Blade","Natural","Common","🗡️"],
  ["Spring","Natural","Common","🌸"],
